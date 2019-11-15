@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\AppAlugueCarros\AppAlugueCarros\AppAlugueCarros\bin\Debug\netstandard2.0\AppAlugueCarros.deps.json
+C:\Users\User\source\repos\AppAlugueCarros\AppAlugueCarros\AppAlugueCarros\bin\Debug\netstandard2.0\AppAlugueCarros.dll
+C:\Users\User\source\repos\AppAlugueCarros\AppAlugueCarros\AppAlugueCarros\bin\Debug\netstandard2.0\ref\AppAlugueCarros.dll
+C:\Users\User\source\repos\AppAlugueCarros\AppAlugueCarros\AppAlugueCarros\bin\Debug\netstandard2.0\AppAlugueCarros.pdb
+C:\Users\User\source\repos\AppAlugueCarros\AppAlugueCarros\AppAlugueCarros\obj\Debug\netstandard2.0\AppAlugueCarros.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AppAlugueCarros\AppAlugueCarros\AppAlugueCarros\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\source\repos\AppAlugueCarros\AppAlugueCarros\AppAlugueCarros\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\source\repos\AppAlugueCarros\AppAlugueCarros\AppAlugueCarros\obj\Debug\netstandard2.0\AppAlugueCarros.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AppAlugueCarros\AppAlugueCarros\AppAlugueCarros\obj\Debug\netstandard2.0\AppAlugueCarros.AssemblyInfo.cs
+C:\Users\User\source\repos\AppAlugueCarros\AppAlugueCarros\AppAlugueCarros\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\source\repos\AppAlugueCarros\AppAlugueCarros\AppAlugueCarros\obj\Debug\netstandard2.0\AppAlugueCarros.dll
+C:\Users\User\source\repos\AppAlugueCarros\AppAlugueCarros\AppAlugueCarros\obj\Debug\netstandard2.0\ref\AppAlugueCarros.dll
+C:\Users\User\source\repos\AppAlugueCarros\AppAlugueCarros\AppAlugueCarros\obj\Debug\netstandard2.0\AppAlugueCarros.pdb
